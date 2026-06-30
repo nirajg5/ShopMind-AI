@@ -1,0 +1,27 @@
+streamlit
+
+pandas
+
+numpy
+
+sentence-transformers
+
+pinecone
+
+openai
+
+python-dotenv
+
+torch
+
+transformers
+
+tqdm
+
+scikit-learn
+
+matplotlib
+
+ fastapi 
+ 
+ uvicorn

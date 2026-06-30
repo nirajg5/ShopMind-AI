@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+shopmind_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Hugging Face cache
+.cache/
+
+# Python build
+build/
+dist/
+*.egg-info/
